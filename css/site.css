@@ -1,0 +1,42 @@
+body{
+ background-color: rgb(213, 152, 75);
+}
+ 
+.sub{ 
+text-align: center;
+font-size: 12px;
+padding: 66px;
+margin-top: -200px;
+padding-bottom: 160px;
+}
+.img{
+bottom: 12px;
+padding-top: -50px;
+padding-bottom: -100px;    
+}
+
+h5{
+text-align: center;  
+padding-bottom: -20px;
+margin-top: -60px;
+}
+.navbar{ 
+width: 170px;
+padding-bottom: 4in;
+padding-top: 3in;
+margin-top: -464px;
+margin-bottom: -255px;
+margin-left: -19px;
+}
+.aboutabout{
+padding-top: 400px;
+margin-bottom: -27px;
+margin-top: -80px;
+}
+a{
+ display: block;
+     color: saddlebrown;
+     padding: 8px 16px;
+    margin-right: 10px;
+    margin-left: 20px;
+    }
