@@ -1,42 +1,49 @@
 body{
- background-color: rgb(213, 152, 75);
-}
- 
-.sub{ 
-text-align: center;
-font-size: 12px;
-padding: 66px;
-margin-top: -200px;
-padding-bottom: 160px;
-}
-.img{
-bottom: 12px;
-padding-top: -50px;
-padding-bottom: -100px;    
+    background-color: rgb(213, 152, 75);
 }
 
-h5{
-text-align: center;  
-padding-bottom: -20px;
-margin-top: -60px;
+
+
+.center{
+    position: absolute;
+    text-align: center;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: -80px;
 }
-.navbar{ 
-width: 170px;
-padding-bottom: 4in;
-padding-top: 3in;
-margin-top: -464px;
-margin-bottom: -255px;
-margin-left: -19px;
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #f1f1f1;
+width: 160px;
+height: 800px;
+padding-top: 100px;
+margin-left: -20px;
+position: fixed;
 }
-.aboutabout{
-padding-top: 400px;
-margin-bottom: -27px;
-margin-top: -80px;
+
+ a {
+    display: block;
+  color: #000;
+    padding: 15px;
+    padding-top: -10px;
+margin-bottom: -40px;
+margin-top: 50px;
+padding-bottom: 10px;
+    text-decoration: none;
 }
-a{
- display: block;
-     color: saddlebrown;
-     padding: 8px 16px;
-    margin-right: 10px;
-    margin-left: 20px;
-    }
+.sub{
+   margin-bottom: -50px;
+ margin-top: 670px;
+margin-left: 156px;
+  padding-bottom: 71px;
+text-align: center;
+}
+.coffee{
+margin-left: 140px;
+position:100px;
+}
